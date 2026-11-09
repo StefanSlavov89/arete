@@ -45,6 +45,16 @@
         }
       ],
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "c3b13058-f748-4cdc-a4ad-ee45e7c9ed3e"
+      }
+    }
   }
 }
